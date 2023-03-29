@@ -1,0 +1,3 @@
+-- You can find the Class UML for the snack vending machine in the next URL:
+
+https://drive.google.com/file/d/1q-OGD4pZ_eILSnLiFJnNcsplqz4Yf1Gq/view?usp=sharing
